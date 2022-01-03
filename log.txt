@@ -1,0 +1,11 @@
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+package_folder: C:\2022-projects\minecraft\build\python\lib\site-packages\ursina
+asset_folder: src
+screen resolution: (1366, 768)
+read obj at: src\assets\block.obj
+read obj at: src\assets\arm.obj
+application successfully started
